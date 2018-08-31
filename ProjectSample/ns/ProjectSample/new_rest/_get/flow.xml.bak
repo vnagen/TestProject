@@ -2,10 +2,4 @@
 
 <FLOW VERSION="3.0" CLEANUP="true">
   <COMMENT></COMMENT>
-
-  <!-- nodes -->
-
-<INVOKE TIMEOUT="" SERVICE="ProjectSample:new_flowservice" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT>hi</COMMENT>
-</INVOKE>
 </FLOW>
