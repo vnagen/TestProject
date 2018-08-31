@@ -6,6 +6,6 @@
   <!-- nodes -->
 
 <INVOKE TIMEOUT="" SERVICE="ProjectSample:new_flowservice" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT></COMMENT>
+  <COMMENT>hi</COMMENT>
 </INVOKE>
 </FLOW>
